@@ -1,6 +1,6 @@
 {
   "name": "jquery-oembed-all",
-  "version": "1.1.0",
+  "version": "1.1.1",
   "description": "Use native oEmbed services when possible",
   "main": "jquery.oembed.js",
   "directories": {
